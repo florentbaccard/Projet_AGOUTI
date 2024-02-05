@@ -55,8 +55,8 @@ Informations de connexion pour l’administrateur : Nom d’utilisateur > admin 
 1. Clonez le dépôt :
 
 ```bash
-git clone https://github.com/florentbaccard/Projet_Agouti.git
-cd Projet_Agouti
+git clone https://github.com/florentbaccard/Projet_AGOUTI.git
+cd Projet_AGOUTI
 
 ```
 ## Captures d'écran
