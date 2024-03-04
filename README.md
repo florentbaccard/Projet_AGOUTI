@@ -56,8 +56,6 @@ Informations de connexion pour l’administrateur : Nom d’utilisateur > admin 
 
 ```bash
 git clone https://github.com/florentbaccard/Projet_AGOUTI.git
-cd Projet_AGOUTI
-
 ```
 ## Captures d'écran
 
