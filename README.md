@@ -1,6 +1,6 @@
 # 📼 ONLINE RENTAL #
 
-Bienvenue sur notre projet Online RENTAL réalisé par <a href="https://github.com/florentbaccard" target="_blank"> Florent BACCARD</a> & <a href="https://github.com/Chr1stopherPerez" target="_blank"> Christopher PEREZ</a> !
+Bienvenue sur mon projet Online RENTAL réalisé par <a href="https://github.com/florentbaccard" target="_blank"> Florent BACCARD</a> !
 
 L'objectif de ce projet était la création d'une bibliothéque de location en ligne de vhs. Projet demander au sein de notre formation proposée par <a href = 'https://www.onlineformapro.com/' target = "_blank" >OnlineFormaPro.</a>
  
